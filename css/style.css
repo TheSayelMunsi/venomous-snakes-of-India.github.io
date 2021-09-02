@@ -107,3 +107,6 @@ img{
     width: 50%;
     
 }
+html{
+    overflow-x: hidden;
+}
