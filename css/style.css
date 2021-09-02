@@ -1,0 +1,109 @@
+div,section{
+    text-align: center;
+    display: block;
+    background-repeat: no-repeat;
+}
+h1{
+    color: white;
+    
+    display: inline-block;
+    padding:10px 15px;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    padding:20px 20px;
+}
+div.first{
+    background-image:url("../new image/photo-1474314170901-f351b68f544f.jpg");
+    
+    
+    min-height: 100%;
+}
+.ty{
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    width: 100%;
+    letter-spacing: 8px;
+}
+div.three{
+    background-image:url("../new image/photo-1605051538177-72c289389de5.jpg");
+    min-height: 400px;
+    
+}
+
+div.five{
+    background-image:url("../new image/new.jpg");
+    min-height: 600px;
+}
+div.six{
+    background-image:url("../new image/photo-1595853812565-a250fa0b42ce.jpg");
+    min-height: 400px;
+}
+div.seven{
+    background-image: url("../new image/photo-1610981648401-2d89a8aa72dd.jpg");
+    min-height: 400px;
+}
+.jy{
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    width: 100%;
+    letter-spacing: 8px;
+}
+section{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+section.two{
+    background-color:rgb(202, 201, 201);
+    padding:50px 20px;
+}
+section.four{
+    background-color: black;
+    color: blanchedalmond;
+    padding:50px 20px;
+}
+.first,.three,.five,.six,.seven{
+    position: relative;
+    opacity: 1;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: center;
+}
+section.six{
+    background-color: black;
+    padding:20px;
+}
+button{
+    border-radius: 4%;
+    background-color: #5e5ecf;
+    margin-top: 5px;
+    margin-left: 50%;
+    padding:10px 20px;
+    font-family: inherit ;
+    font-weight: bold;
+}
+button:hover{
+    background-color: #4040d6;
+    border: outset 3px rgb(43, 40, 40);
+    
+}
+h1.one{
+    color: #0a0a0a;
+    background-color: #f1e0e0;
+    text-align: center;
+    text-decoration-line: underline;
+    width: 100%;
+    border-bottom: solid black 2px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 20px;
+}
+header{
+    margin-top: -29;
+    margin-bottom: -22;
+}
+img{
+    width: 50%;
+    
+}
